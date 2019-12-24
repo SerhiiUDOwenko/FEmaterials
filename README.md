@@ -13,4 +13,5 @@
 
 ## CSS
 
+* [normalize CSS](https://necolas.github.io/normalize.css/8.0.1/normalize.css){:target="\_blank"}
 * [CSS tricks/сайт посвящённый CSS](https://css-tricks.com/){:target="\_blank"}
