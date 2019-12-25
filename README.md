@@ -4,6 +4,8 @@
  * [EMMET cheat sheet for VScode/список всех сокращений](https://docs.emmet.io/cheat-sheet/){:target="\_blank"} 
  
  * [Онлайн "фотошоп"](https://www.photopea.com/){:target="\_blank"}
+ 
+ * [https://caniuse.com/](https://caniuse.com/){:target="\_blank"}
 
 ## html
 
